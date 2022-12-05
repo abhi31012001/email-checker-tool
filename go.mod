@@ -1,0 +1,3 @@
+module EMAIL-CHECKER-TOOL
+
+go 1.19
